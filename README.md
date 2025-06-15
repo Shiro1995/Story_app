@@ -78,7 +78,7 @@ src/
 
 **Lap Tran**  
 Mobile Developer | React Native | iOS  
-[GitHub](https://github.com/your-username)
+[GitHub](https://github.com/Shiro1995)
 
 ---
 
