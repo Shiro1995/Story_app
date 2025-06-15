@@ -18,10 +18,11 @@ Supports viewing **top/new/best stories**, **story details**, and **comments** �
 ## 📸 Screenshots
 
 <!-- Add real screenshots later -->
-<p float="left">
-  <img src="./screenshots/home.png" width="200"/>
-  <img src="./screenshots/detail.png" width="200"/>
-</p>
+<p align="center">
+  <img src="./screenshot/home.png" width="200" />
+  &nbsp;&nbsp;&nbsp;&nbsp;
+  <img src="./screenshot/detail.png" width="200" />
+</p
 
 ---
 ## 🛠️ Getting Started
